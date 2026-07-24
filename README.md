@@ -1,30 +1,56 @@
-### Dipali Patil
+<div align="center">
 
-MSc Computer Science student at Kirti College, Mumbai, transitioning into Data Analytics with a growing focus on Data Science and Machine Learning.
+# Hi, I'm Dipali 👋
 
-I build end-to-end data analysis projects — applying a single dataset across four tools (Excel, SQL, Power BI, and Python) to develop a thorough understanding of each stage of the analytics workflow.
+### Data Analyst in the making — turning raw data into decisions
 
-### Currently
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0B0F?style=for-the-badge&logo=linkedin&logoColor=E8112D)](https://linkedin.com/in/dipali-patil-)
 
-Refining my Olist E-Commerce project, followed by an HR Analytics project using the IBM Employee Attrition dataset.
+</div>
 
-### Featured Projects
+---
 
-**[Olist E-Commerce Analysis](https://github.com/Dpatil1604/olist-ecommerce-analysis)**
-End-to-end sales and delivery performance analysis on Brazilian e-commerce data, using SQL, Python, Excel, and Power BI.
+### 🎓 About Me
 
-**[DataCo Supply Chain Analysis](https://github.com/Dpatil1604/dataco-supply-chain-analysis)**
-Supply chain performance and profitability analysis using Excel, SQL, Python, and Power BI.
+- 📊 MSc Computer Science student at **Kirti College, Mumbai**
+- 🔍 Building end-to-end data projects — one dataset, four tools: **Excel → SQL → Power BI → Python**
+- 🎯 Targeting Data Analytics roles, with Data Science/ML as a growing interest
+- 📌 Philosophy: learn a concept, apply it immediately inside a real project — not theory first
 
-### Tools & Skills
+---
 
-SQL · Python (Pandas, Matplotlib, Seaborn) · Power BI · Excel (Pivot Tables, VBA)
+### 🧰 Tech Stack
 
-### Certifications
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,powerbi&theme=dark)](https://skillicons.dev)
+
+`Pandas` `Matplotlib` `Seaborn` `Excel (Pivot Tables, VBA)` `DAX`
+
+---
+
+### 📊 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🛒 **[Olist E-Commerce Analysis](https://github.com/Dpatil1604/olist-ecommerce-analysis)** | End-to-end sales & delivery performance analysis on Brazilian e-commerce data | `SQL` `Python` `Excel` `Power BI` |
+| 🚚 **[DataCo Supply Chain Analysis](https://github.com/Dpatil1604/dataco-supply-chain-analysis)** | Supply chain performance & profitability analysis | `Excel` `SQL` `Python` `Power BI` |
+
+---
+
+### 🚧 Currently Building
+
+Deepening the Olist project end-to-end, then starting an HR Analytics project on the IBM Employee Attrition dataset.
+
+---
+
+### 📜 Certifications
 
 - Kaggle Learn — Pandas
 - Kaggle Learn — Data Visualization
 
-### Connect
+---
 
-[LinkedIn](https://linkedin.com/in/dipali-patil-)
+<div align="center">
+
+📫 Reach me on [LinkedIn](https://linkedin.com/in/dipali-patil-)
+
+</div>
