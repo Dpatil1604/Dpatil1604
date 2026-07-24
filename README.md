@@ -27,11 +27,8 @@
 
 ---
 
-### 🚧 Currently Building
 
-Deepening the Olist project end-to-end, then starting an HR Analytics project on the IBM Employee Attrition dataset.
 
----
 
 <div align="center">
 
