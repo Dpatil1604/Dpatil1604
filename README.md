@@ -27,20 +27,7 @@
 
 ---
 
-### 📊 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| 🛒 **[Olist E-Commerce Analysis](https://github.com/Dpatil1604/olist-ecommerce-analysis)** | End-to-end sales & delivery performance analysis on Brazilian e-commerce data | `SQL` `Python` `Excel` `Power BI` |
-| 🚚 **[DataCo Supply Chain Analysis](https://github.com/Dpatil1604/dataco-supply-chain-analysis)** | Supply chain performance & profitability analysis | `Excel` `SQL` `Python` `Power BI` |
-
----
-
-### 🚧 Currently Building
-
-Deepening the Olist project end-to-end, then starting an HR Analytics project on the IBM Employee Attrition dataset.
-
----
 
 <div align="center">
 
