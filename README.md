@@ -12,7 +12,7 @@
 
 ### 🎓 About Me
 
-- 📊 MSc Computer Science student at **Kirti College, Mumbai**
+- 📊 MSc Computer Science student 
 - 🔍 Building end-to-end data projects — one dataset, four tools: **Excel → SQL → Power BI → Python**
 - 🎯 Exploring Data Analytics, Data Science, and Machine Learning — building a strong analytics foundation before going deeper into ML
 - 📌 Philosophy: learn a concept, apply it immediately inside a real project — not theory first
